@@ -1,0 +1,25 @@
+adb shell am start -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity
+adb  shell am start -n com.pubg.krmobile/com.epicgames.ue4.SplashActivity
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\AEngine.dll
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\AEngine.dll
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\AEngine.dll
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\AEngine.dll
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\AowGame.xml
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\AowGame.xml
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\AowGame.xml
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\DefaultKeyMapping.xml
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\DefaultKeyMapping.xml
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\DefaultKeyMapping.xml
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\DefaultKeyMapping.xml
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\GameSidebar.xml
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\GameSidebar.xml
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\GameSidebar.xml
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\SceneTips.xml
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\SceneTips.xml
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\SceneTips.xml
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\smk.conf
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\smk.conf
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\smk.conf
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\translate.conf
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\translate.conf
+[11:45:52] File Modified: C:\Program Files\TxGameAssistant\ui\translate.conf

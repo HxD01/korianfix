@@ -1,0 +1,192 @@
+01-06 21:12:26:923: [Tid=76632][Common]///////////////////////////// Android Engine Log Start /////////////////////////////
+01-06 21:12:26:924: [Tid=76632][Common]===[LaunchApk]=== state:[0], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:12:26:925: [Tid=76632][Common]===[LaunchApk]=== state:[1], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:12:26:954: [Tid=76632][Common]AEngineImpl::Init: imei=[66666088035764121] android_id=[4086cd6a6ef24400] mac_address=[02:00:00:00:00:00]
+
+01-06 21:12:27:097: [Tid=16684][Common]===[LaunchApk]=== state:[2], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:12:27:603: [Tid=16684][Common]GameConfigItem::Load: Unsupported KeyMappingEx Type Macro
+
+01-06 21:12:27:604: [Tid=16684][Common]GameConfigItem::Load: Unsupported KeyMappingEx Type Macro
+
+01-06 21:12:27:604: [Tid=16684][Common]GameConfigItem::Load: Unsupported KeyMappingEx Type Macro
+
+01-06 21:12:27:604: [Tid=16684][Common]GameConfigItem::Load: Unsupported KeyMappingEx Type Macro
+
+01-06 21:12:27:604: [Tid=16684][Common]GameConfigItem::Load: Unsupported KeyMappingEx Type Macro
+
+01-06 21:12:27:739: [Tid=16684][Common]===[LaunchApk]=== state:[4], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:12:27:739: [Tid=16684][Common]AEngineImplEx::CheckEnvironment: HostMemTotal[24576] HostMemAvail[13714]
+
+01-06 21:12:27:750: [Tid=16684][Common]hardware_detect::check_opengl: opengl_vendor: ATI Technologies Inc.
+
+01-06 21:12:27:751: [Tid=16684][Common]hardware_detect::check_opengl: opengl_renderer: AMD Radeon Graphics
+
+01-06 21:12:27:751: [Tid=16684][Common]hardware_detect::check_opengl: opengl_version: 4.6.0 Compatibility Profile Context 24.10.21.03.240627
+
+01-06 21:12:27:755: [Tid=16684][Common]AEngineImplEx::CheckEnvironment: SupportDirectX=ture
+
+01-06 21:12:27:755: [Tid=16684][Common]AEngineImplEx::CheckEnvironment: SupportOpenGLPlus=ture, SupportDirectXPlus=true
+
+01-06 21:12:27:786: [Tid=16684][Common]===[LaunchApk]=== state:[5], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:12:27:786: [Tid=16684][Common]===[LaunchApk]=== state:[6], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:12:27:786: [Tid=16684][Common]AEngineImplEx::StartVM: Renderer=1, m_bEnableGLESv3=0
+
+01-06 21:12:27:787: [Tid=16684][Common]===[LaunchApk]=== state:[8], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:12:27:787: [Tid=16684][Common]AEngineImplEx::StartVM: vm memory size is 2048
+
+01-06 21:12:27:787: [Tid=16684][Common]===[LaunchApk]=== state:[9], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:12:27:787: [Tid=16684][Common]===[LaunchApk]=== state:[11], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:12:27:787: [Tid=16684][Common]AEngineImplEx::StartVM: vm cpu count is 8
+
+01-06 21:12:27:795: [Tid=16684][Common]QimeiHelper::QimeiHelper init ret:0
+01-06 21:12:27:797: [Tid=16684][Common]===[LaunchApk]=== state:[13], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:12:27:797: [Tid=16684][Common]AEngineImplEx::StartVMInternal: vmname: TVM_0
+
+01-06 21:12:27:797: [Tid=16684][Common]AEngineImplEx::StartVMInternal: set current timezone code: Asia/Riyadh  GMT string:GMT+04:00
+
+01-06 21:12:27:798: [Tid=16684][Common]AEngineImplEx::StartVMInternal: cpu_score=4000, gpu_score=1000, m_nMemorySizeInMB=24576, m_nAvailMemorySizeInMB=13709
+
+01-06 21:12:27:798: [Tid=16684][Common]AEngineImplEx::StartVMInternal: m_pcPerformanceLevel=1
+
+01-06 21:12:27:800: [Tid=16684][Common]AEngineImplEx::ApplyPhoneNumber: ret(1), name()
+01-06 21:12:27:800: [Tid=16684][Common]AEngineImplEx::ApplySimCountryISO: ret(1), name(us)
+01-06 21:12:27:800: [Tid=16684][Common]AEngineImplEx::ApplySimOperator: ret(1), name(T-Mobile)
+01-06 21:12:27:800: [Tid=16684][Common]AEngineImplEx::ApplyRootState: ret(1), name(0)
+01-06 21:12:27:815: [Tid=16684][Common]AEngineImplEx::StartVMInternal: shared folder C:\Temp\TxGameDownload\MobileGamePCShared
+
+01-06 21:12:27:815: [Tid=16684][Common]AEngineImpl::CopyFileToSharedFolder: copy apk_44.conf to shared folder apk.conf
+
+01-06 21:12:27:816: [Tid=16684][Common]AEngineImpl::CopyOpenglConfFileToSharedFolder: copy opengl.conf
+
+01-06 21:12:27:817: [Tid=16684][Common]AEngineImpl::CopyFileToSharedFolder: copy translate.conf to shared folder translate.conf
+
+01-06 21:12:27:817: [Tid=16684][Common]AEngineImpl::CopyFileToSharedFolder: copy translateex.conf to shared folder translateex.conf
+
+01-06 21:12:27:818: [Tid=16684][Common]AEngineImpl::CopyFileToSharedFolder: copy hardinput.conf to shared folder hardinput.conf
+
+01-06 21:12:27:820: [Tid=16684][Common]AEngineImpl::CopyFileToSharedFolder: copy hardinput2.conf to shared folder hardinput2.conf
+
+01-06 21:12:27:820: [Tid=16684][Common]AEngineImpl::CopyFileToSharedFolder: copy whitelist.conf to shared folder whitelist.conf
+
+01-06 21:12:27:821: [Tid=16684][Common]AEngineImpl::CopyFileToSharedFolder: copy multiDexApk.conf to shared folder multiDexApk.conf
+
+01-06 21:12:27:821: [Tid=16684][Common]AEngineImpl::CopyFileToSharedFolder: copy cmd.conf to shared folder cmd.conf
+
+01-06 21:12:27:822: [Tid=16684][Common]AEngineImpl::CopyFileToSharedFolder: copy block_rule.json to shared folder block_rule.json
+
+01-06 21:12:27:822: [Tid=16684][Common]AEngineImpl::UnzipFileToSharedFolder: unzip inter.zip to shared folder
+
+01-06 21:12:27:888: [Tid=16684][Common]===[LaunchApk]=== state:[14], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:12:27:897: [Tid=16684][Common]===[LaunchApk]=== state:[15], success:[0], error_code:[12], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:12:27:897: [Tid=16684][Common]AEngineImplEx::StartVMInternal: Unable to start aow TVM_0 error=12
+
+01-06 21:12:35:149: [Tid=76632][Common]===[LaunchApk]=== state:[38], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:24:15:996: [Tid=119772][Common]///////////////////////////// Android Engine Log Start /////////////////////////////
+01-06 21:24:15:997: [Tid=119772][Common]===[LaunchApk]=== state:[0], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:24:15:998: [Tid=119772][Common]===[LaunchApk]=== state:[1], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:24:16:032: [Tid=119772][Common]AEngineImpl::Init: imei=[66666088035764121] android_id=[4086cd6a6ef24400] mac_address=[02:00:00:00:00:00]
+
+01-06 21:24:16:169: [Tid=106580][Common]===[LaunchApk]=== state:[2], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:24:16:736: [Tid=106580][Common]GameConfigItem::Load: Unsupported KeyMappingEx Type Macro
+
+01-06 21:24:16:736: [Tid=106580][Common]GameConfigItem::Load: Unsupported KeyMappingEx Type Macro
+
+01-06 21:24:16:736: [Tid=106580][Common]GameConfigItem::Load: Unsupported KeyMappingEx Type Macro
+
+01-06 21:24:16:736: [Tid=106580][Common]GameConfigItem::Load: Unsupported KeyMappingEx Type Macro
+
+01-06 21:24:16:736: [Tid=106580][Common]GameConfigItem::Load: Unsupported KeyMappingEx Type Macro
+
+01-06 21:24:16:917: [Tid=106580][Common]===[LaunchApk]=== state:[4], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:24:16:917: [Tid=106580][Common]AEngineImplEx::CheckEnvironment: HostMemTotal[24576] HostMemAvail[11952]
+
+01-06 21:24:16:929: [Tid=106580][Common]hardware_detect::check_opengl: opengl_vendor: ATI Technologies Inc.
+
+01-06 21:24:16:929: [Tid=106580][Common]hardware_detect::check_opengl: opengl_renderer: AMD Radeon Graphics
+
+01-06 21:24:16:929: [Tid=106580][Common]hardware_detect::check_opengl: opengl_version: 4.6.0 Compatibility Profile Context 24.10.21.03.240627
+
+01-06 21:24:16:934: [Tid=106580][Common]AEngineImplEx::CheckEnvironment: SupportDirectX=ture
+
+01-06 21:24:16:935: [Tid=106580][Common]AEngineImplEx::CheckEnvironment: SupportOpenGLPlus=ture, SupportDirectXPlus=true
+
+01-06 21:24:16:967: [Tid=106580][Common]===[LaunchApk]=== state:[5], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:24:16:967: [Tid=106580][Common]===[LaunchApk]=== state:[6], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:24:16:967: [Tid=106580][Common]AEngineImplEx::StartVM: Renderer=1, m_bEnableGLESv3=0
+
+01-06 21:24:16:967: [Tid=106580][Common]===[LaunchApk]=== state:[8], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:24:16:967: [Tid=106580][Common]AEngineImplEx::StartVM: vm memory size is 2048
+
+01-06 21:24:16:968: [Tid=106580][Common]===[LaunchApk]=== state:[9], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:24:16:968: [Tid=106580][Common]===[LaunchApk]=== state:[11], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:24:16:968: [Tid=106580][Common]AEngineImplEx::StartVM: vm cpu count is 8
+
+01-06 21:24:16:979: [Tid=106580][Common]QimeiHelper::QimeiHelper init ret:0
+01-06 21:24:16:981: [Tid=106580][Common]===[LaunchApk]=== state:[13], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:24:16:981: [Tid=106580][Common]AEngineImplEx::StartVMInternal: vmname: TVM_0
+
+01-06 21:24:16:981: [Tid=106580][Common]AEngineImplEx::StartVMInternal: set current timezone code: Asia/Riyadh  GMT string:GMT+04:00
+
+01-06 21:24:16:982: [Tid=106580][Common]AEngineImplEx::StartVMInternal: cpu_score=4000, gpu_score=766, m_nMemorySizeInMB=24576, m_nAvailMemorySizeInMB=11954
+
+01-06 21:24:16:982: [Tid=106580][Common]AEngineImplEx::StartVMInternal: m_pcPerformanceLevel=1
+
+01-06 21:24:16:985: [Tid=106580][Common]AEngineImplEx::ApplyPhoneNumber: ret(1), name()
+01-06 21:24:16:985: [Tid=106580][Common]AEngineImplEx::ApplySimCountryISO: ret(1), name(us)
+01-06 21:24:16:985: [Tid=106580][Common]AEngineImplEx::ApplySimOperator: ret(1), name(T-Mobile)
+01-06 21:24:16:985: [Tid=106580][Common]AEngineImplEx::ApplyRootState: ret(1), name(0)
+01-06 21:24:17:002: [Tid=106580][Common]AEngineImplEx::StartVMInternal: shared folder C:\Temp\TxGameDownload\MobileGamePCShared
+
+01-06 21:24:17:002: [Tid=106580][Common]AEngineImpl::CopyFileToSharedFolder: copy apk_44.conf to shared folder apk.conf
+
+01-06 21:24:17:003: [Tid=106580][Common]AEngineImpl::CopyOpenglConfFileToSharedFolder: copy opengl.conf
+
+01-06 21:24:17:003: [Tid=106580][Common]AEngineImpl::CopyFileToSharedFolder: copy translate.conf to shared folder translate.conf
+
+01-06 21:24:17:004: [Tid=106580][Common]AEngineImpl::CopyFileToSharedFolder: copy translateex.conf to shared folder translateex.conf
+
+01-06 21:24:17:005: [Tid=106580][Common]AEngineImpl::CopyFileToSharedFolder: copy hardinput.conf to shared folder hardinput.conf
+
+01-06 21:24:17:006: [Tid=106580][Common]AEngineImpl::CopyFileToSharedFolder: copy hardinput2.conf to shared folder hardinput2.conf
+
+01-06 21:24:17:006: [Tid=106580][Common]AEngineImpl::CopyFileToSharedFolder: copy whitelist.conf to shared folder whitelist.conf
+
+01-06 21:24:17:007: [Tid=106580][Common]AEngineImpl::CopyFileToSharedFolder: copy multiDexApk.conf to shared folder multiDexApk.conf
+
+01-06 21:24:17:008: [Tid=106580][Common]AEngineImpl::CopyFileToSharedFolder: copy cmd.conf to shared folder cmd.conf
+
+01-06 21:24:17:009: [Tid=106580][Common]AEngineImpl::CopyFileToSharedFolder: copy block_rule.json to shared folder block_rule.json
+
+01-06 21:24:17:009: [Tid=106580][Common]AEngineImpl::UnzipFileToSharedFolder: unzip inter.zip to shared folder
+
+01-06 21:24:17:080: [Tid=106580][Common]===[LaunchApk]=== state:[14], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:24:17:089: [Tid=106580][Common]===[LaunchApk]=== state:[15], success:[0], error_code:[12], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
+01-06 21:24:17:089: [Tid=106580][Common]AEngineImplEx::StartVMInternal: Unable to start aow TVM_0 error=12
+
+01-06 21:24:20:828: [Tid=119772][Common]===[LaunchApk]=== state:[38], success:[1], error_code:[0], start_type:[0], is_aow:[1], pkg_name:[], detail:[]
+
